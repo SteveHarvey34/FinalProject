@@ -1,0 +1,6 @@
+framework module Pods_10Seconds {
+  umbrella header "Pods-10Seconds-umbrella.h"
+
+  export *
+  module * { export * }
+}
